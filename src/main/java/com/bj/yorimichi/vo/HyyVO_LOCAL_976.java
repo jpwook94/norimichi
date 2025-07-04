@@ -4,5 +4,4 @@ public class HyyVO
 {
     private int id;
     private int age;
-    private String name;
 }
