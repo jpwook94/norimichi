@@ -13,6 +13,8 @@
 <body>
 <a href="/review-all">get all review</a>
 <hr>
+<a href="/cecrud">채은's CRUD</a>
+<hr>
 <form action="/review-add " method="POST">
     <div>
         <input type="text" placeholder="title" name="r_title">
